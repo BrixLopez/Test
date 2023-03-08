@@ -1,7 +1,8 @@
 #Brix's Shoe Collection
-<div class="bg-color">
-  This div has a colored background!
-</div>
+
+.bg-color {
+  background-color: #F5F5F5;
+}
 
 My repository called test 
 
