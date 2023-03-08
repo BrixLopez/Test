@@ -1,9 +1,5 @@
 #Brix's Shoe Collection
 
-.bg-color {
-  background-color: #F5F5F5;
-}
-
 My repository called test 
 
 | Shoe Name | Brand | Color | Size | Link |
@@ -13,3 +9,6 @@ My repository called test
 | AirForce 1 | Nike | White | US 8.5 | [Link](https://www.goat.com/sneakers/air-force-1-low-07-fresh-dm0211-100) |
 
 
+`code`body {
+  background: #F5F5F5;
+}
